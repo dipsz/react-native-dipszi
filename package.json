@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "expo": "~57.0.27",
+    "expo-status-bar": "~57.0.1",
+    "react": "19.2.3",
+    "react-native": "0.86.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.5",
+    "eslint": "^9.39.5",
+    "eslint-config-expo": "~57.0.2",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-import-x": "^4.16.1",
+    "eslint-plugin-prettier": "^5.5.4",
+    "eslint-plugin-promise": "^7.2.1",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-security": "^3.0.1",
+    "globals": "^16.4.0",
+    "prettier": "^3.6.2"
+  },
+  "main": "index.js",
+  "name": "mobile_development_starter_project",
+  "private": true,
+  "scripts": {
+    "android": "expo start --android",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "ios": "expo start --ios",
+    "lint": "eslint --max-warnings=0 .",
+    "start": "expo start",
+    "web": "expo start --web"
+  },
+  "version": "1.0.0"
+}

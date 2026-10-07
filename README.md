@@ -1,1 +1,0 @@
-# mobile_development_starter_project
