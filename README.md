@@ -1,1 +1,1 @@
-# react-native-dipszi
+### Sneider Armin es jo tarsam, Zambo Laszlo Gergo 
